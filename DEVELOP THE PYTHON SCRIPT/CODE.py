@@ -1,3 +1,5 @@
+#Python code for publishing the location (latitude and longitude) data to the IBM IoT Platform
+
 import wiotp.sdk.device
 import time
 import random
