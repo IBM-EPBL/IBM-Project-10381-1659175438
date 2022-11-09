@@ -1,3 +1,5 @@
+#Python code to read the QR Code and fetch the data from Cloudant DB.
+
 from ibmcloudant import CouchDbSessionAuthenticator 
 from ibm_cloud_sdk_core.authenticators import BasicAuthenticator
 
